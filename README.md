@@ -1,2 +1,23 @@
-# Smart-Watering-System
-An ESP32-based Smart Watering System simulation that monitors soil moisture, controls a water pump (LED), and logs data to ThingSpeak for real-time IoT monitoring.
+# Smart Watering System
+
+This project simulates a **Smart Watering System** using an ESP32 microcontroller. It monitors soil moisture, controls a water pump (LED), and logs data to a ThingSpeak IoT dashboard.
+
+## Features
+- Reads soil moisture sensor values.
+- Controls a water pump (simulated with an LED).
+- Sends data to the ThingSpeak IoT platform for real-time monitoring.
+
+## Components
+- ESP32 Microcontroller
+- Potentiometer (Simulates Soil Moisture Sensor)
+- LED (Simulates Water Pump)
+- ThingSpeak IoT Dashboard
+
+## Circuit Diagram
+- **Soil Moisture Sensor**: Connected to GPIO 34.
+- **Water Pump (LED)**: Connected to GPIO 2.
+
+## Usage
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/Smart-Watering-System.git
