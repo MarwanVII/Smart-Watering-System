@@ -23,6 +23,6 @@ Clone this repository:
    git clone https://github.com/yourusername/Smart-Watering-System.git
    ```
 Or See the project on WOKWI
-```
+   ```
    https://wokwi.com/projects/417952848604168193
-```
+   ```
