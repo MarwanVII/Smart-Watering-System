@@ -18,6 +18,11 @@ This project simulates a **Smart Watering System** using an ESP32 microcontrolle
 - **Water Pump (LED)**: Connected to GPIO 2.
 
 ## Usage
-1. Clone this repository:
+Clone this repository:
    ```bash
    git clone https://github.com/yourusername/Smart-Watering-System.git
+   ```
+Or See the project on WOKWI
+```
+   https://wokwi.com/projects/417952848604168193
+```
