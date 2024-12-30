@@ -30,10 +30,10 @@ Or clone this repository:
 
 This project was completed by our college team:
 
-- **[Marwan Sabry]** – Project setup, code structure, ThingSpeak integration, and overall coordination.
-- **[Mohamed Yasser]** – Soil moisture sensor integration, hardware setup, and testing.
-- **[Ahmed Saad]** – WiFi configuration, pump control logic, and data visualization.
-- **[Ahmed Abdulrahim]** – Documentation
-- **ChatGPT** – Provided guidance on code structure, debugging, and project setup.
+- **[Marwan Sabry]**
+- **[Mohamed Yasser]**
+- **[Ahmed Saad]**
+- **[Ahmed Abdulrahim]**
+- **ChatGPT**
 
 Thank you to everyone for their hard work and dedication!
