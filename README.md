@@ -30,10 +30,10 @@ Or clone this repository:
 
 This project was completed by our college team:
 
-- **[Marwan Sabry]**
-- **[Mohamed Yasser]**
-- **[Ahmed Saad]**
-- **[Ahmed Abdulrahim]**
+- **Marwan Sabry**
+- **Mohamed Yasser**
+- **Ahmed Saad**
+- **Ahmed Abdulrahim**
 - **ChatGPT**
 
 Thank you to everyone for their hard work and dedication!
